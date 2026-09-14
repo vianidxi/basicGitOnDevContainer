@@ -232,3 +232,6 @@ Antes de entregar, verifica todo lo siguiente:
 - [ ] Existe una rama integrada mediante `merge`.
 - [ ] El repositorio conserva los archivos `.java`, pero no archivos `.class`, `.bin` ni `.javac` versionados.
 - [ ] El README conserva todas las casillas marcadas como evidencia de la práctica.
+
+## Notita :)
+Este ejercicio me ayudó a entender la diferencia entre `git add`, `git commit` y `git commit --amend`. 
